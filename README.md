@@ -1,4 +1,4 @@
-# 自動增長的輸入框 / Autogrowing Textarea
+# 自動增長的輸入框 / Auto-growing Textarea
 
 > 這個專案展示了一個自動增長的 `textarea` 元件，該元件會根據內容自動調整高度，確保所有文字可見，無需滾動。<br>
 > This project showcases an auto-resizing `textarea` element that dynamically adjusts its height based on the content, ensuring that all text is visible without the need for scrolling.<br>
