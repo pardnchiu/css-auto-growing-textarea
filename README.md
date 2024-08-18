@@ -13,6 +13,14 @@
   <span>輸入的文字會顯示在 `pre` 元素中，增強可讀性。</span><br>
   Text entered into the textarea is displayed in a `pre` element, enhancing readability.
 
+## 創建者 / Creator
+
+<img src="https://pardn.io/image/head-s.jpg" align="left" width="96" height="96" style="float: left; margin-right: 0.5rem; width: 96px; height: 96px;" />
+
+<h4 style="padding-top: 0">邱敬幃 Pardn Chiu</h4>
+
+[![](https://pardn.io/image/mail.svg)](mailto:mail@pardn.ltd) [![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/pardnchiu) 
+
 ## 代碼 / Code
 - HTML
   ```html
@@ -74,3 +82,11 @@
     }
   }
   ```
+  
+***
+
+*All translations powered by ChatGPT*
+
+***
+
+©️ 2024 [邱敬幃 Pardn Chiu](https://www.linkedin.com/in/pardnchiu)
